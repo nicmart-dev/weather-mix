@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "Lato";
+  src: url(../../assets/fonts/Lato-Regular.ttf) format("truetype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Lato";
+  src: url(../../assets/fonts/Lato-Bold.ttf) format("truetype");
+  font-weight: 500;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+body {
+  background-color: rgb(54, 50, 50);
+  font-family: "Lato";
+  margin-top: 2rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  color: white;
+}
+body h1 {
+  font-size: 2rem;
+  padding-left: 20rem;
+  padding-top: 2rem;
+  color: white;
+}
+
+.location-form {
+  padding-bottom: 2rem;
+  padding-left: 20rem;
+}
+.location-form__city {
+  padding: 1rem;
+  width: 50%;
+}
+.location-form__button {
+  background-color: black;
+  border-radius: 0.5rem;
+  color: white;
+  padding: 1rem;
+  text-transform: uppercase;
+  border: 1px solid grey;
+}
+
+.cocktail-referral {
+  height: 30rem;
+  padding-left: 5rem;
+}
+.cocktail-referral__info img {
+  width: 50%;
+  height: 50%;
+  border-radius: 5rem;
+  border: 2px solid lightgrey;
+}
+.cocktail-referral__name {
+  display: flex;
+  color: white;
+  transform: translate(50%, 50%);
+  margin-left: 300px;
+}
+.cocktail-referral__button {
+  background-color: black;
+  border-radius: 0.5rem;
+  color: white;
+  padding: 1rem;
+  text-transform: uppercase;
+  margin-left: 15rem;
+  border: 1px solid grey;
+}/*# sourceMappingURL=style.css.map */
