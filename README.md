@@ -1,5 +1,5 @@
 A simple landing page that allows to show the weather and fetch a random cocktail name and image.
-Done as part of BrainStation Web API hackaton over 4h as a team of 4 people, together with  @Yuxin Zeng, @Grace Lau, and @Lucas Deng
+Done as part of BrainStation Web API hackaton over 4h as a team of 4 people, together with [Grace Lau](https://github.com/gracelau ), https://github.com/littlexu87, and https://github.com/speedemon-21
 
 Using web APIs https://openweathermap.org/api and https://www.thecocktaildb.com/api.php
 
