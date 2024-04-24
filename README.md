@@ -6,6 +6,8 @@ Using web APIs https://openweathermap.org/api and https://www.thecocktaildb.com/
 # Special mentions
 - Planned the work using Trello board: https://trello.com/b/lG8Y99Ib/web-api-hackathon
 - Did a UI mockup collaboratively using https://excalidraw.com/#room=7a2d982dfb40189d705f,fAceWqTejbd0Rg601qPcxA
+ ![image](https://github.com/nicmart-dev/BrainStation-Web-API-Hackathon/assets/10499747/e6a923cc-1903-47d5-beab-51826d1a02bf)
+
 
 # Main learnings
 - Using GitHub pull requests to better manage coding collaboratively, instead of manual merging on shared Google Drive
