@@ -1,6 +1,8 @@
 A simple landing page that allows to show the weather and fetch a random cocktail name and image.
 Done as part of BrainStation Web API hackaton over 4h as a team of 4 people.
 
+You can access the page at https://nicmart-dev.github.io/weather-mix/
+
 # Credits
 - Thanks to [Lucas Deng](https://github.com/littlexu87) for implementing the HTML5 and using DOM API to integrate the two web APIs output.
 - Thanks to [Yuxin Zeng](https://github.com/speedemon-21) for implementing the weather API https://openweathermap.org/api
