@@ -2,10 +2,10 @@ A simple landing page that allows to show the weather and fetch a random cocktai
 Done as part of BrainStation Web API hackaton over 4h as a team of 4 people.
 
 # Credits
-Thanks to @littlexu87 for implementing the HTML5 and using DOM API to integrate the two web APIs output.
-Thanks to @speedemon-21 for implementing the weather API https://openweathermap.org/api
-Thanks to @gracelau for implementing the look and feel using SAAS and CSS3
-As for I, I implemented the cocktail API https://www.thecocktaildb.com/api.php
+- Thanks to @littlexu87 for implementing the HTML5 and using DOM API to integrate the two web APIs output.
+- Thanks to @speedemon-21 for implementing the weather API https://openweathermap.org/api
+- Thanks to @gracelau for implementing the look and feel using SAAS and CSS3
+- As for I, I implemented the cocktail API https://www.thecocktaildb.com/api.php
 
 # Behind the scenes
 - Planned the work using Trello board: https://trello.com/b/lG8Y99Ib/web-api-hackathon
