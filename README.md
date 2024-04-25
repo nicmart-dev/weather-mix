@@ -1,15 +1,19 @@
 A simple landing page that allows to show the weather and fetch a random cocktail name and image.
 Done as part of BrainStation Web API hackaton over 4h as a team of 4 people, together with [Grace Lau](https://github.com/gracelau ), https://github.com/littlexu87, and https://github.com/speedemon-21
 
-Using web APIs https://openweathermap.org/api and https://www.thecocktaildb.com/api.php
+# Credits
+Thanks to @littlexu87 for implementing the HTML5 and using DOM API to integrate the two web APIs output.
+Thanks to @speedemon-21 for implementing the weather API https://openweathermap.org/api
+Thanks to @gracelau for implementing the look and feel using SAAS and CSS3
+As for I, I implemented the cocktail API https://www.thecocktaildb.com/api.php
 
-# Special mentions
+# Behind the scenes
 - Planned the work using Trello board: https://trello.com/b/lG8Y99Ib/web-api-hackathon
 - Did a UI mockup collaboratively using https://excalidraw.com/#room=7a2d982dfb40189d705f,fAceWqTejbd0Rg601qPcxA
  ![image](https://github.com/nicmart-dev/BrainStation-Web-API-Hackathon/assets/10499747/e6a923cc-1903-47d5-beab-51826d1a02bf)
 
 
-# Main learnings
+# What we'll do better next time
 - Using GitHub pull requests to better manage coding collaboratively, instead of manual merging on shared Google Drive
   
 # Original requirements
