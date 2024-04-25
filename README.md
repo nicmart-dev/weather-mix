@@ -9,6 +9,11 @@ You can access the page at https://nicmart-dev.github.io/weather-mix/
 - Thanks to [Grace Lau](https://github.com/gracelau) for implementing the look and feel using SAAS and CSS3
 - As for I, I implemented the cocktail API https://www.thecocktaildb.com/api.php
 
+# How to use
+
+<img width="500" alt="image" src="https://github.com/nicmart-dev/weather-mix/assets/10499747/213fe8d2-6345-4b71-adf4-a9e048f70ce6">
+
+
 # Behind the scenes
 - Planned the work using Trello board: https://trello.com/b/lG8Y99Ib/web-api-hackathon
 - Did a UI mockup collaboratively using https://excalidraw.com/#room=7a2d982dfb40189d705f,fAceWqTejbd0Rg601qPcxA
