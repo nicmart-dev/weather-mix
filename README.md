@@ -1,5 +1,5 @@
 A simple landing page that allows to show the weather and fetch a random cocktail name and image.
-Done as part of BrainStation Web API hackaton over 4h as a team of 4 people, together with [Grace Lau](https://github.com/gracelau ), https://github.com/littlexu87, and https://github.com/speedemon-21
+Done as part of BrainStation Web API hackaton over 4h as a team of 4 people.
 
 # Credits
 Thanks to @littlexu87 for implementing the HTML5 and using DOM API to integrate the two web APIs output.
